@@ -23,7 +23,7 @@
  * Created On      : <2023-08-28>
  * Last Modified   : <2024-12-08>
  *
- * chsrc: Change Source —— 全平台通用命令行换源工具
+ * chsrc: Change Source —— 全平台通用命令行换源工具  asd
  * ------------------------------------------------------------*/
 
 #define Chsrc_Version        "0.1.9.5"
